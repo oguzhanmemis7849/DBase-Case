@@ -12,7 +12,7 @@ This project is built using the following technologies:
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/oguzhanmemis7849/DBase-Case`
 2. Install the dependencies: `npm install`
 3. Start the server: `npm run dev`
 4. Open your web browser and navigate to `http://localhost:5173`
