@@ -1,5 +1,3 @@
-# DBase Case
-
 ## Project Information
 
 This project is built using the following technologies:
